@@ -1,2 +1,2 @@
 # tradingview-kabust-strategy-alert2
-kabuステーションAPIとTradingviewをwebhookで繋げた物です。macで作ったので合ってるか知りません。というか、まだ使ったことありません。いつか修正します。
+kabuステーションAPIとTradingviewをwebhookで繋げた物です。macで作ったので合ってるか知りません。まだ使ったことありません。いつか修正します。

@@ -30,7 +30,7 @@ python app.py
 # Note
  
  
-まず参考にしたYoutubechennelがあります。まず、こちらをご覧ください。
+まず参考にしたYoutubechennelがあります。まず、こちらをご覧ください。<br>
 https://www.youtube.com/watch?app=desktop&v=gMRee2srpe8
 
 もし間違っている点や、省略可能なところがございましたら、ご教授のほど宜しくお願いします。
@@ -45,7 +45,7 @@ https://www.youtube.com/watch?app=desktop&v=gMRee2srpe8
 また、kabuステーションAPIの利用については、こちらの公式ドキュメントをご覧ください。<br> https://kabucom.github.io/kabusapi/ptal/index.html <br>
 また、auカブコム証券のAPIは、ローカルに立ち上げた上記のアプリケーションを中継することで動作し、毎日自動的にログアウトされ、自動売買には適さないとされており、以下のサイトをご参考ください<br>
 https://www.kojinteki.net/2020/09/19/kabucom-auto-login/ <br>
-また、ngrokを使用する場合、登録が必要。<br> https://ngrok.com/ <br>
+また、ngrokを使用する場合、登録が必要。外注するのも一つかと考えられます。<br> https://ngrok.com/ <br>
 
 # License
  

@@ -1,5 +1,3 @@
-作成途中です。
-
 # tradingview-kabust-strategy-alert-v2
   
 **kabuステーションAPIとTradingviewのWebhookを繋げ売買の自動化を行います。**
@@ -47,6 +45,7 @@ https://www.youtube.com/watch?app=desktop&v=gMRee2srpe8
 また、kabuステーションAPIの利用については、こちらの公式ドキュメントをご覧ください。https://kabucom.github.io/kabusapi/ptal/index.html
 また、auカブコム証券のAPIは、ローカルに立ち上げた上記のアプリケーションを中継することで動作し、毎日自動的にログアウトされ、自動売買には適さないとされており、以下のサイトをご参考ください<br>
 https://www.kojinteki.net/2020/09/19/kabucom-auto-login/
+また、ngrokを使用する場合、登録が必要。https://ngrok.com/
 
 # License
  

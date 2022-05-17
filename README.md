@@ -41,11 +41,11 @@ https://www.youtube.com/watch?app=desktop&v=gMRee2srpe8
 また、現在は、buy or sellとposition_sizeのみdataを与えていますが、PinescriptやPythonでは様々なやり方があるはずですので、ご自身で変更をお願いします。<br>
 また、Tradingviewのwebhookでは、30秒ほど遅延が起こります。これはTradingview側のプランによってスピードが変わる設定になっています。ご自身で変更をお願いします。Premiumでは3秒ほどの遅延が生じます。<br>
 また、PythonでRealtimeTickerを取得し、売買する方法もございます。そちらの方が、売買の高速化は可能です。<br>
-また、kabuステーションAPIでは、Windowsでしか利用できません。また、kabuステーションという専用のアプリが必要であり、kabuステーション®API利用設定をONにする必要があります。
-また、kabuステーションAPIの利用については、こちらの公式ドキュメントをご覧ください。https://kabucom.github.io/kabusapi/ptal/index.html
+また、kabuステーションAPIでは、Windowsでしか利用できません。また、kabuステーションという専用のアプリが必要であり、kabuステーション®API利用設定をONにする必要があります。<br>
+また、kabuステーションAPIの利用については、こちらの公式ドキュメントをご覧ください。<br> https://kabucom.github.io/kabusapi/ptal/index.html <br>
 また、auカブコム証券のAPIは、ローカルに立ち上げた上記のアプリケーションを中継することで動作し、毎日自動的にログアウトされ、自動売買には適さないとされており、以下のサイトをご参考ください<br>
-https://www.kojinteki.net/2020/09/19/kabucom-auto-login/
-また、ngrokを使用する場合、登録が必要。https://ngrok.com/
+https://www.kojinteki.net/2020/09/19/kabucom-auto-login/ <br>
+また、ngrokを使用する場合、登録が必要。<br> https://ngrok.com/ <br>
 
 # License
  
